@@ -1,8 +1,10 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://groupchatgpt.streamlit.app)
+
 # 👨‍👩‍👧‍👦 GroupChatGPT
 
 GroupChatGPT evolves [ChatGPT](https://openai.com/blog/chatgpt) from an awkward 1:1 conversation into a familiar group chat with your favorite characters.
 
-> Demo: https://groupchatgpt.streamlit.com
+> Demo: https://groupchatgpt.streamlit.app
 
 Sometimes we learn more by listening than by talking...
 
